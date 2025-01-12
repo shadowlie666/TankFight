@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TankFight", "TankFight\TankFight.csproj", "{6CB0A5A3-2075-44E3-8A86-A280628BADFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm", "WinForm\WinForm.csproj", "{16CCB9D8-AFEA-4E4D-AB91-12341059311D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankFIght-1", "TankFIght-1\TankFIght-1.csproj", "{116CE5CD-A0D6-4024-AF56-EB360AA14210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormalTankFight", "FormalTankFight\FormalTankFight.csproj", "{75CF57F3-C4E3-4ECB-92B6-73A34DC2D12F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFtest1", "TFtest1\TFtest1.csproj", "{4F2579E8-A93E-4F40-8FA7-2B1A572A542E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankFight2.0", "TankFight2.0\TankFight2.0.csproj", "{CAB51FE1-17D2-453F-931B-4FDBFC8E3E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CB0A5A3-2075-44E3-8A86-A280628BADFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB0A5A3-2075-44E3-8A86-A280628BADFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB0A5A3-2075-44E3-8A86-A280628BADFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB0A5A3-2075-44E3-8A86-A280628BADFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16CCB9D8-AFEA-4E4D-AB91-12341059311D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CCB9D8-AFEA-4E4D-AB91-12341059311D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CCB9D8-AFEA-4E4D-AB91-12341059311D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CCB9D8-AFEA-4E4D-AB91-12341059311D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116CE5CD-A0D6-4024-AF56-EB360AA14210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116CE5CD-A0D6-4024-AF56-EB360AA14210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116CE5CD-A0D6-4024-AF56-EB360AA14210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116CE5CD-A0D6-4024-AF56-EB360AA14210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CF57F3-C4E3-4ECB-92B6-73A34DC2D12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CF57F3-C4E3-4ECB-92B6-73A34DC2D12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CF57F3-C4E3-4ECB-92B6-73A34DC2D12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CF57F3-C4E3-4ECB-92B6-73A34DC2D12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2579E8-A93E-4F40-8FA7-2B1A572A542E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2579E8-A93E-4F40-8FA7-2B1A572A542E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2579E8-A93E-4F40-8FA7-2B1A572A542E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2579E8-A93E-4F40-8FA7-2B1A572A542E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB51FE1-17D2-453F-931B-4FDBFC8E3E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB51FE1-17D2-453F-931B-4FDBFC8E3E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB51FE1-17D2-453F-931B-4FDBFC8E3E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB51FE1-17D2-453F-931B-4FDBFC8E3E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45AE2E90-3BDC-44A2-9EEE-56FA7DE30B7C}
+	EndGlobalSection
+EndGlobal

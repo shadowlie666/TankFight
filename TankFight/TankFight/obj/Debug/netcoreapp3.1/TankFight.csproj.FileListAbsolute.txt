@@ -1,0 +1,14 @@
+D:\CSharp work place\TankFight\TankFight\bin\Debug\netcoreapp3.1\TankFight.exe
+D:\CSharp work place\TankFight\TankFight\bin\Debug\netcoreapp3.1\TankFight.deps.json
+D:\CSharp work place\TankFight\TankFight\bin\Debug\netcoreapp3.1\TankFight.runtimeconfig.json
+D:\CSharp work place\TankFight\TankFight\bin\Debug\netcoreapp3.1\TankFight.runtimeconfig.dev.json
+D:\CSharp work place\TankFight\TankFight\bin\Debug\netcoreapp3.1\TankFight.dll
+D:\CSharp work place\TankFight\TankFight\bin\Debug\netcoreapp3.1\TankFight.pdb
+D:\CSharp work place\TankFight\TankFight\obj\Debug\netcoreapp3.1\TankFight.csproj.AssemblyReference.cache
+D:\CSharp work place\TankFight\TankFight\obj\Debug\netcoreapp3.1\TankFight.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp work place\TankFight\TankFight\obj\Debug\netcoreapp3.1\TankFight.AssemblyInfoInputs.cache
+D:\CSharp work place\TankFight\TankFight\obj\Debug\netcoreapp3.1\TankFight.AssemblyInfo.cs
+D:\CSharp work place\TankFight\TankFight\obj\Debug\netcoreapp3.1\TankFight.csproj.CoreCompileInputs.cache
+D:\CSharp work place\TankFight\TankFight\obj\Debug\netcoreapp3.1\TankFight.dll
+D:\CSharp work place\TankFight\TankFight\obj\Debug\netcoreapp3.1\TankFight.pdb
+D:\CSharp work place\TankFight\TankFight\obj\Debug\netcoreapp3.1\TankFight.genruntimeconfig.cache

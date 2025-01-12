@@ -1,0 +1,10 @@
+D:\CSharp work place\TankFight\FormalTankFight\bin\Debug\FormalTankFight.exe.config
+D:\CSharp work place\TankFight\FormalTankFight\bin\Debug\FormalTankFight.exe
+D:\CSharp work place\TankFight\FormalTankFight\bin\Debug\FormalTankFight.pdb
+D:\CSharp work place\TankFight\FormalTankFight\obj\Debug\FormalTankFight.csproj.AssemblyReference.cache
+D:\CSharp work place\TankFight\FormalTankFight\obj\Debug\FormalTankFight.Form1.resources
+D:\CSharp work place\TankFight\FormalTankFight\obj\Debug\FormalTankFight.Properties.Resources.resources
+D:\CSharp work place\TankFight\FormalTankFight\obj\Debug\FormalTankFight.csproj.GenerateResource.cache
+D:\CSharp work place\TankFight\FormalTankFight\obj\Debug\FormalTankFight.csproj.CoreCompileInputs.cache
+D:\CSharp work place\TankFight\FormalTankFight\obj\Debug\FormalTankFight.exe
+D:\CSharp work place\TankFight\FormalTankFight\obj\Debug\FormalTankFight.pdb
